@@ -105,7 +105,7 @@ This sets the applications vertical synchronization behavior.  Changing this to 
 Change this to NEAREST if you want the texture values to use the nearest pixel without averaging.
 Change this to LINEAR if you want the texture values to be averaged over the adjacent pixels.
 
-[TEXTURE_PARAM:LINEAR]
+[TEXTURE_PARAM:NEAREST]
 
 Change this to make the dwarfort.exe process have a different priority.  From highest to lowest, the options are REALTIME, HIGH, ABOVE_NORMAL, NORMAL, BELOW_NORMAL and IDLE.
 
